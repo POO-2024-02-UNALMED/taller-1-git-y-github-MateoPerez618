@@ -2,3 +2,4 @@ Mateo Perez Gutierrez
 21 
 Aprender programacion orientada a objetos
 Ya se puede realizar el commit por que la carpeta no esta vacia
+Es por que puede llegar a generar conflictos y si no se resuelven correctamente se puede perder parte de la informacion
